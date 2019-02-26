@@ -8,6 +8,7 @@ sfsdjf;sdjfl/sdnflsdnflksdnfklsdf
 
 ## How To Contribute
 how to contribute is so easy blah blah
+Please fork this repository and issue pull request for review
 
 ## Deployment
 
