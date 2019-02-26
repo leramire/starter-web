@@ -7,5 +7,8 @@
 sfsdjf;sdjfl/sdnflsdnflksdnfklsdf
 
 ## How To Contribute
+how to contribute is so easy blah blah
 
 ## Deployment
+
+Deployment section here lalalalala
