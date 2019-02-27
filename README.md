@@ -18,4 +18,4 @@ Deployment section here lalalalala
 
 ##Copyright
 
-Copyright 2019
+Copyright 2019. All rights reserved
